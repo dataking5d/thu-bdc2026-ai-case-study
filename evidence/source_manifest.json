@@ -1,0 +1,29 @@
+{
+  "note": "Historical working-tree evidence, not an official receipt or a complete reproducible experiment.",
+  "files": [
+    {
+      "source_relative": "runs/20260723_submission/metrics/val_alpha.json",
+      "published_relative": "evidence/july23/val_alpha.json",
+      "sha256": "8f18f9f4272b481af2069e3dcbe2e11ac198bd9f7e2d90e9c8b9bc86f51f15cd",
+      "bytes": 13765
+    },
+    {
+      "source_relative": "runs/20260723_submission/metrics/walk_forward.json",
+      "published_relative": "evidence/july23/walk_forward.json",
+      "sha256": "4f10ca4cb75b7124153379e9314374eb18c41f85ff63f4e265ba5265f24fa15e",
+      "bytes": 803
+    },
+    {
+      "source_relative": "runs/20260812_232344_repro_lf/metadata.json",
+      "published_relative": "evidence/august12/metadata.json",
+      "sha256": "88e2bd67affc5f8575c6513614244baaab62e9458a9b452e3bdb9e5bef336819",
+      "bytes": 391
+    },
+    {
+      "source_relative": "runs/20260812_232344_repro_lf/output/result.csv",
+      "published_relative": "evidence/august12/result.csv",
+      "sha256": "2a2b5453dd770ed54faf8dd6f8bcb874286695360ade9f548d9c5be69d7fb9e1",
+      "bytes": 71
+    }
+  ]
+}
